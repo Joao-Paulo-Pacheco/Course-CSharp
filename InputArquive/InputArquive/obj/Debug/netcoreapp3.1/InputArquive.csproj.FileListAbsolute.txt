@@ -1,0 +1,13 @@
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\bin\Debug\netcoreapp3.1\InputArquive.exe
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\bin\Debug\netcoreapp3.1\InputArquive.deps.json
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\bin\Debug\netcoreapp3.1\InputArquive.runtimeconfig.json
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\bin\Debug\netcoreapp3.1\InputArquive.runtimeconfig.dev.json
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\bin\Debug\netcoreapp3.1\InputArquive.dll
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\bin\Debug\netcoreapp3.1\InputArquive.pdb
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\obj\Debug\netcoreapp3.1\InputArquive.csprojAssemblyReference.cache
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\obj\Debug\netcoreapp3.1\InputArquive.AssemblyInfoInputs.cache
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\obj\Debug\netcoreapp3.1\InputArquive.AssemblyInfo.cs
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\obj\Debug\netcoreapp3.1\InputArquive.csproj.CoreCompileInputs.cache
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\obj\Debug\netcoreapp3.1\InputArquive.dll
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\obj\Debug\netcoreapp3.1\InputArquive.pdb
+C:\Users\joaoj\source\repos\InputArquive\InputArquive\obj\Debug\netcoreapp3.1\InputArquive.genruntimeconfig.cache
